@@ -1,2 +1,4 @@
-# javascript-currency-71
+# Javascript Currency 71
+
 A basic exchange converter in JavaScript.
+
